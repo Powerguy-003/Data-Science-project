@@ -32,7 +32,7 @@ In this project, we:
 
 - `kNN (K-Nearest Neighbors) jupyter.ipynb`: Jupyter Notebook containing all steps, from data exploration to evaluation.
 - `kNN (K-Nearest Neighbors) transcription`: The transcription of the content spoken in the video
-- `23040859 kNN.mp$`: Video where the kNN algorithm is presented in ppt and analysed with codes on Jupyter
+- `23040859 kNN.mp4`: Video where the kNN algorithm is presented in ppt and analysed with codes on Jupyter
 - `kNN (K-Nearest Neighbors).pptx`: The Powerpoint presentation which is used to present the data
 - `README.md`: Project overview (this file).
 
